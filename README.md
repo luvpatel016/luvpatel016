@@ -4,7 +4,6 @@ Aspiring Software Engineer | Computer Science Student @ Queens College
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luv-patel-395267299)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:your.email@domain.com)
 
 # 💻 Tech Stack:
