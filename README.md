@@ -25,7 +25,7 @@ Aspiring Software Engineer | Computer Science Student @ Queens College
 
 ### 🚀 Featured Projects
 - **ResuMatchAI** — AI resume analyzer & job matcher (React + Node + OpenAI)  
-- Music Player** — Fully Functional Music Player
+- **Music Player** — Fully Functional Music Player
 - **Tetris Game** — Fun Block Placing Game
 
 ---
