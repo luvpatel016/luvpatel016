@@ -31,6 +31,8 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 
 - **ResuMatchAI** — AI-powered resume analyzer & job matcher built with React, Node.js, and OpenAI API | **Impact:** Helps job seekers optimize resumes with 85% accuracy in skill matching | **Skills:** Full-stack development, API integration, AI/ML implementation
 
+- **AI CODE ANALYZER ASSISTANT** — Built an AI-powered code analyzer that reviews code and provides suggestions using the OpenAI API. Developed with Next.js and deployed using Vercel.
+
 - **Music Player** — Responsive web-based music player with playlist management and audio visualization | **Impact:** Clean UI/UX supporting multiple audio formats and smooth playback controls | **Skills:** JavaScript, HTML5 Audio API, responsive design
 
 - **Tetris Game** — Classic block-puzzle game implementation with scoring system and progressive difficulty | **Impact:** Smooth gameplay mechanics with collision detection and line-clearing algorithms | **Skills:** Game logic, JavaScript, DOM manipulation, algorithm optimization
