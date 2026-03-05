@@ -37,7 +37,5 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 
 - **Tetris Game** — Classic block-puzzle game implementation with scoring system and progressive difficulty | **Impact:** Smooth gameplay mechanics with collision detection and line-clearing algorithms | **Skills:** Game logic, JavaScript, DOM manipulation, algorithm optimization
 
-- **Academic Projects** — Coursework including data structures implementations, algorithm analysis, and database design | **Skills:** Problem-solving, code optimization, theoretical CS concepts
-
 ---
 [![](https://visitcount.itsvg.in/api?id=luvpatel016&icon=2&color=1)](https://visitcount.itsvg.in)
