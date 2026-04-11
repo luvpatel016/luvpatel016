@@ -1,7 +1,7 @@
 # 💫 About Me:
 Computer Science Student @ Queens College | Aspiring Software Engineer
 
-Passionate about Full-Stack Development, AI/ML, and Problem-Solving | Collaborative team player with leadership experience in group projects | Building innovative solutions while preparing for FAANG-level internships
+💻 Passionate about Full-Stack Development, AI/ML, and Problem-Solving | Collaborative team player with leadership experience in group projects | Building innovative solutions while preparing for FAANG-level internships
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luv-patel-395267299)
