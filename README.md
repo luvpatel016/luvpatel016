@@ -20,11 +20,6 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luvpatel016&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=luvpatel016&theme=blue_navy&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luvpatel016&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
 ### 🚀 Featured Projects
 
 - **ResuMatchAI** — AI-powered resume analyzer & job matcher built with React, Node.js, and OpenAI API | **Impact:** Helps job seekers optimize resumes with 85% accuracy in skill matching | **Skills:** Full-stack development, API integration, AI/ML implementation
