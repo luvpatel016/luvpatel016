@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐ About Me:
 Computer Science Student @ Queens College | Aspiring Software Engineer
 
 💻 Passionate about Full-Stack Development, AI/ML, and Problem-Solving | Collaborative team player with leadership experience in group projects | Building innovative solutions while preparing for FAANG-level internships
