@@ -11,7 +11,7 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects:
 
 - **Java Course Manager** — Console-based Java application for adding, viewing, searching, editing, and removing courses. Built using object-oriented programming, ArrayList, Scanner, loops, and duplicate-course prevention. Currently expanding it with assignment and grade tracking.
 
