@@ -19,3 +19,12 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luvpatel016&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luvpatel016/luvpatel016/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luvpatel016/luvpatel016/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luvpatel016/luvpatel016/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
