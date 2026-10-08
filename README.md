@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Curious+Mind;CS+Student&font=Fira+Code&center=true&width=600&height=60&color=32CD32&vCenter=true&pause=1000&size=28" alt="Aspiring Software Engineer — animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring+Software+Engineer;Curious+Mind;CS+Student&font=Fira+Code&center=true&width=600&height=60&color=32CD32&vCenter=true&pause=1000&size=22" alt="Aspiring Software Engineer — animated tagline" />
 </p>
 
 
