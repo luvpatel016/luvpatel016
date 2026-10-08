@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="assets/LP.svg" alt="Aspiring Software Engineer — CS Student at Queens College" />
-</p>
-
 # ⭐ About Me:
-Computer Science Student @ Queens College | Aspiring Software Engineer
+
+<p align="center">
+  <img src="assets/LP.svg" alt="Aspiring Software Engineer — Computer Science Student at Queens College" />
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luv-patel-395267299)
