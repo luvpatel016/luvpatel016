@@ -20,7 +20,7 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 ---
 [![](https://visitcount.itsvg.in/api?id=luvpatel016&icon=2&color=1)](https://visitcount.itsvg.in)
 
-### 🔥 GitHub Stats
+## 🔥 GitHub Stats
 
 ![](https://streak-stats.demolab.com/?user=luvpatel016&theme=nightowl&hide_border=false)<br/>
 
