@@ -13,14 +13,16 @@
     <clipPath id="c2"><rect class="r2" x="90" y="0" width="0" height="60"/></clipPath>
   </defs>
   <style>
-    text { font: 25px 'Fira Code', monospace; fill: #800080; }
+    text { font: 25px 'Fira Code', monospace; }
+    .t1 { fill: #800080; }
+    .t2 { fill: #FFC000; }
     .r1 { animation: t1 8s linear infinite; }
     .r2 { animation: t2 8s linear infinite; }
     @keyframes t1 { 0%{width:0} 25%{width:430px} 45%{width:430px} 50%,100%{width:0} }
     @keyframes t2 { 0%,50%{width:0} 75%{width:430px} 95%{width:430px} 100%{width:0} }
   </style>
   <g filter="url(#glow)">
-    <text x="95" y="38" clip-path="url(#c1)">Aspiring Software Engineer</text>
-    <text x="95" y="38" clip-path="url(#c2)">CS Student at Queens College</text>
+    <text class="t1" x="95" y="38" clip-path="url(#c1)">Aspiring Software Engineer</text>
+    <text class="t2" x="95" y="38" clip-path="url(#c2)">CS Student at Queens College</text>
   </g>
 </svg>
