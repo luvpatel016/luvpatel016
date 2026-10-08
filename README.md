@@ -18,4 +18,4 @@ Computer Science Student @ Queens College | Aspiring Software Engineer
 - **C++ Dungeon Battle Game** — Console-based turn-based battle game with attack, heal, and defend mechanics. Includes random damage, limited healing, difficulty levels, replay functionality, and input validation.
 
 ---
-
+![](https://streak-stats.demolab.com/?user=luvpatel016&theme=nightowl&hide_border=false)<br/>
