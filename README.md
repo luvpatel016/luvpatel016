@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/tagline.svg" alt="Aspiring Software Engineer — CS Student at Queens College" />
+ <img src="assets/tagline.svg?v=2" alt="Aspiring Software Engineer — CS Student at Queens College" />
 </p>
 
 # ⭐ About Me:
