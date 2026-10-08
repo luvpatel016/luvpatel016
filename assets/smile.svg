@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="215" viewBox="0 0 380 215">
+  <defs>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur">
+        <animate attributeName="stdDeviation" values="2;8;2" dur="2.5s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#glow)" stroke="#39FF14" fill="none" stroke-width="7" stroke-linecap="round">
+    <circle cx="190" cy="107" r="85"/>
+    <path d="M140 125 Q190 180 240 125"/>
+  </g>
+  <g filter="url(#glow)" fill="#39FF14">
+    <ellipse cx="160" cy="88" rx="9" ry="12">
+      <animate attributeName="ry" dur="4s" repeatCount="indefinite"
+               keyTimes="0;0.9;0.93;0.96;1" values="12;12;1;12;12"/>
+    </ellipse>
+    <ellipse cx="220" cy="88" rx="9" ry="12">
+      <animate attributeName="ry" dur="4s" repeatCount="indefinite"
+               keyTimes="0;0.9;0.93;0.96;1" values="12;12;1;12;12"/>
+    </ellipse>
+  </g>
+</svg>
