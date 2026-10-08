@@ -12,13 +12,13 @@
     <clipPath id="c1">
       <rect x="90" y="0" width="0" height="60">
         <animate attributeName="width" dur="8s" repeatCount="indefinite"
-                 keyTimes="0;0.25;0.45;0.5;1" values="0;430;430;0;0"/>
+         keyTimes="0;0.25;0.45;0.5;1" values="0;500;500;0;0"/>
       </rect>
     </clipPath>
     <clipPath id="c2">
       <rect x="90" y="0" width="0" height="60">
         <animate attributeName="width" dur="8s" repeatCount="indefinite"
-                 keyTimes="0;0.5;0.75;0.95;1" values="0;0;430;430;0"/>
+         keyTimes="0;0.5;0.75;0.95;1" values="0;0;500;500;0"/>
       </rect>
     </clipPath>
   </defs>
