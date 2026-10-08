@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="60" viewBox="0 0 600 60">
+  <defs>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur">
+        <animate attributeName="stdDeviation" values="1.5;5;1.5" dur="2.5s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="c1">
+      <rect x="90" y="0" width="0" height="60">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite"
+                 keyTimes="0;0.25;0.45;0.5;1" values="0;430;430;0;0"/>
+      </rect>
+    </clipPath>
+    <clipPath id="c2">
+      <rect x="90" y="0" width="0" height="60">
+        <animate attributeName="width" dur="8s" repeatCount="indefinite"
+                 keyTimes="0;0.5;0.75;0.95;1" values="0;0;430;430;0"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g filter="url(#glow)" font-family="'Fira Code', monospace" font-size="25">
+    <text x="95" y="38" fill="#800080" clip-path="url(#c1)">Aspiring Software Engineer</text>
+    <text x="95" y="38" fill="#FFC000" clip-path="url(#c2)">CS Student at Queens College</text>
+  </g>
+</svg>
