@@ -24,6 +24,6 @@
   </defs>
   <g filter="url(#glow)" font-family="'Fira Code', monospace" font-size="28">
     <text x="95" y="38" fill="#32CD32" clip-path="url(#c1)">Aspiring Software Engineer</text>
-    <text x="95" y="38" fill="#32CD32" clip-path="url(#c2)">CS Student at Queens College</text>
+    <text x="97" y="38" fill="#32CD32" clip-path="url(#c2)">CS Student at Queens College</text>
   </g>
 </svg>
