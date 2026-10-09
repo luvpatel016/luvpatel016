@@ -24,6 +24,7 @@
 **Full-Stack Developer | Stripe Workplace Challenge (Dual Enrollment @ QCC)** 
 * **Collaborated** in a team of 5 to architect and build a fully functional business web application.
 * **Integrated Stripe API** services to handle secure, rapid end-to-end customer transactions.
+* **Presented** the final product and business website to a team of 10, securing **2nd Place** out of the competition and a **$500 cash prize**.
 
 ---
 <p>
