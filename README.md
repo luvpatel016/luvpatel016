@@ -1,5 +1,5 @@
 # ⭐ About Me:
-<p align="center">
+<p align="right">
   <img src="assets/tagline_1.svg" alt="Aspiring Software Engineer — CS Student at Queens College "/>
 </p>
 
