@@ -36,17 +36,5 @@
 
 
 ---
-<p align="center">
-  <img src="assets/web-divider.svg" alt="" width="100%">
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5+WEB+STREAK-E62429?style=for-the-badge&labelColor=081426&color=FF3340" alt="Web Streak">
-</p>
-
-<p align="center">
-  <a href="https://github.com/luvpatel016">
-    <img src="assets/streak-stats.svg" alt="Web Streak — total contributions, current and longest streak" width="100%">
-  </a>
-</p>
 
