@@ -30,6 +30,6 @@
 
 ---
 <p>
-
+  <img src="https://streak-stats.demolab.com/?user=luvpatel016&theme=github_dark_dimmed&hide_border=false" />
   <img src="assets/sword.svg" height="195" />
 </p>
