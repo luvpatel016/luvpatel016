@@ -28,7 +28,7 @@
 * **Integrated Stripe API** services to handle secure, rapid end-to-end customer transactions.
 * **Presented** the final product and business website to a team of 10, securing **2nd Place** out of the competition and a **$500 cash prize**.
 
----
+
 ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats
 <p>
   <img src="https://streak-stats.demolab.com/?user=luvpatel016&theme=blueberry&hide_border=false" />
