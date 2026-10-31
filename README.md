@@ -15,7 +15,7 @@
 
 ### 🚀 Featured Projects:
 
-- **Local AI Search Engine** — Still under development...
+
 
 - **Java Course Manager** — Console-based Java application for adding, viewing, searching, editing, and removing courses. Built using object-oriented programming, ArrayList, Scanner, loops, and duplicate-course prevention. Currently expanding it with assignment and grade tracking.
 
