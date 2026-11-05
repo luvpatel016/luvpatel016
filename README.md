@@ -20,7 +20,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white)
 
-### 🚀 Featured Projects:
+# 🚀 Featured Projects:
 
 - **Local AI Search Engine** — Still under development...
 
