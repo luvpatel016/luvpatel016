@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luv-patel-395267299)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)  
@@ -20,7 +20,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white) 
 ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white)
 
-# 🚀 Featured Projects:
+## 🚀 Featured Projects:
 
 - **Local AI Search Engine** — Still under development...
 
@@ -28,7 +28,7 @@
 
 - **C++ Dungeon Battle Game** — Console-based turn-based battle game with attack, heal, and defend mechanics. Includes random damage, limited healing, difficulty levels, replay functionality, and input validation.
 
-### 💼 Experience & Competitions
+## 💼 Experience & Competitions
 
 **Full-Stack Developer | Stripe Workplace Challenge (Dual Enrollment @ QCC)** 
 * **Collaborated** in a team of 5 to architect and build a fully functional business web application.
