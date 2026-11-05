@@ -38,6 +38,10 @@
 
 ---
 <p>
-  <img src="https://streak-stats.demolab.com/?user=luvpatel016&theme=blueberry&hide_border=false](https://streak-stats.demolab.com/?user=luvpatel016&theme=blueberry&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=luvpatel016&theme=cobalt2&hide_border=false" />
   <img src="assets/sword.svg" height="195" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luvpatel016&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
