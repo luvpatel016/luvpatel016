@@ -46,5 +46,3 @@
   <img src="assets/fireworks.svg?v=1" alt=""/>
   <img src="assets/sword.svg" height="195" />
 </p>
-
-<p align="center"><img src="assets/divider.svg?v=1" alt=""/></p>
