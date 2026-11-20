@@ -47,3 +47,4 @@
 </p>
 
 <p align="center"><img src="assets/fireworks.svg?v=1" alt=""/></p>
+<p align="center"><img src="assets/divider.svg?v=1" alt=""/></p>
