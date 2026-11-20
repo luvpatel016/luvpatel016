@@ -41,9 +41,9 @@
 * **Integrated Stripe API** services to handle secure, rapid end-to-end customer transactions.
 * **Presented** the final product and business website to a team of 10, securing **2nd Place** out of the competition and a **$500 cash prize**.
 
-<p align="center"><img src="assets/divider.svg?v=1" alt=""/></p>
----
 <p>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luvpatel016&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <img src="assets/sword.svg" height="195" />
 </p>
+
+<p align="center"><img src="assets/divider.svg?v=1" alt=""/></p>
