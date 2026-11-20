@@ -1,5 +1,4 @@
 <p align="center"><img src="assets/divider.svg?v=1" alt=""/></p>
-<p align="center"><img src="assets/fireworks.svg?v=1" alt=""/></p>
 
 <p align="center">
   <img src="assets/tagline.svg" alt="Aspiring Software Engineer — CS Student at Queens College "/>
@@ -42,7 +41,7 @@
 * **Presented** the final product and business website to a team of 10, securing **2nd Place** out of the competition and a **$500 cash prize**.
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=luvpatel016&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="assets/fireworks.svg?v=1" alt=""/>
   <img src="assets/sword.svg" height="195" />
 </p>
 
